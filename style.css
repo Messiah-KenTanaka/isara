@@ -54,7 +54,7 @@ header .image {
 }
 .main-top {
     height: 570px;
-    background-image: url(../img/main.jpg);
+    background-image: url(https://raw.githubusercontent.com/Messiah-KenTanaka/blackbass/296003d4b81b42c1fbb71d1a46107949b5d9f87a/main.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-repeat: no-repeat;
@@ -122,7 +122,7 @@ header .image {
 .concept {
     text-align: center;
     height: 625px;
-    background-image: url(../img/introbottom.jpg);
+    background-image: url(https://raw.githubusercontent.com/Messiah-KenTanaka/blackbass/296003d4b81b42c1fbb71d1a46107949b5d9f87a/introbottom.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-repeat: no-repeat;
@@ -259,7 +259,7 @@ header .image {
 }
 .catch {
     height: 450px;
-    background-image: url(../img/aboutsecondbg.jpg);
+    background-image: url(https://raw.githubusercontent.com/Messiah-KenTanaka/blackbass/296003d4b81b42c1fbb71d1a46107949b5d9f87a/aboutsecondbg.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -440,7 +440,7 @@ header .image {
     opacity: 0.8;
 }
 .member {
-    background-image: url(../img/teacherbg.jpg);
+    background-image: url(https://raw.githubusercontent.com/Messiah-KenTanaka/blackbass/296003d4b81b42c1fbb71d1a46107949b5d9f87a/teacherbg.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     color: white;
@@ -580,7 +580,7 @@ header .image {
 }
 .learn-content {
     height: 800px;
-    background-image: url(../img/classbg.jpg);
+    background-image: url(https://raw.githubusercontent.com/Messiah-KenTanaka/blackbass/296003d4b81b42c1fbb71d1a46107949b5d9f87a/classbg.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -680,7 +680,7 @@ header .image {
     max-width: calc(100% - 20px); */
 }
 .why-bangkok {
-    background-image: url(../img/bangkokbg.jpg);
+    background-image: url(https://raw.githubusercontent.com/Messiah-KenTanaka/blackbass/296003d4b81b42c1fbb71d1a46107949b5d9f87a/bangkokbg.jpg);
     background-repeat: no-repeat;
     background-size: 100% 100%;
     padding-left: 150px;
@@ -759,7 +759,7 @@ header .image {
     margin: 0 auto;
 }
 .no-volunteer {
-    background-image: url(../img/specialdetail.jpg);
+    background-image: url(https://raw.githubusercontent.com/Messiah-KenTanaka/blackbass/296003d4b81b42c1fbb71d1a46107949b5d9f87a/specialdetail.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     color: white;
