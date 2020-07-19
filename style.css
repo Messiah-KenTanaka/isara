@@ -54,7 +54,7 @@ header .image {
 }
 .main-top {
     height: 570px;
-    background-image: url(https://raw.githubusercontent.com/Messiah-KenTanaka/blackbass/296003d4b81b42c1fbb71d1a46107949b5d9f87a/main.jpg);
+    background-image: url(../img/main.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-repeat: no-repeat;
